@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: nirajvara/newproject
+  name: test-repo
+
 media_folder: static/assets
 public_folder: assets
 
