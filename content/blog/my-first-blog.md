@@ -2,7 +2,7 @@
 path: 'Radiology: Artificial Intelligence'
 date: 2019-11-27T09:00:28.808Z
 title: Opportunities for AI in Cancer Imaging
-description: AI in Cancer Imaging
+description: AI in Cancer Imagings
 ---
 How can machine learning be harnessed to advance and improve imaging in patients with cancer?
 
